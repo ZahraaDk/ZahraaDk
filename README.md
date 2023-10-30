@@ -21,10 +21,6 @@
 
 - 🚀 Let's embark on a data-driven journey, from ETL pipelines to insightful analysis. Connect with me on LinkedIn! [LinkedIn Profile](https://www.linkedin.com/in/zahraa-dokmak-87b8aa287/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- Add your contact information here -->
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
