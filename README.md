@@ -9,13 +9,13 @@
   <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhycWt4cDU1N3gzd2psaHU0ZWs4YnpnYjFrNTc2dXh0a3I3b2xvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif">
 </p>
 
-- 🔥 I'm fueled by a passion for data engineering and analysis!
+- 🔥 I'm fueled by a passion for Data Engineering and Analysis!
 
 - 🐍 Python and SQL are my trusty tools for shaping data into insights.
 
 - 🤝 Always seeking innovative ways to optimize processes and drive intelligent decisions. 🛠️
 
-- 💡 I engineer innovative ETL solutions for faster, smarter data processes.
+- 💡 I engineer innovative ETL solutions for faster and smarter data processes.
 
 - 📊 Power BI is my way to translate my findings to all people! 💡
 
